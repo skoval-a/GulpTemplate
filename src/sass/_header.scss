@@ -1,0 +1,10 @@
+
+.header1 {
+    color: red;
+}
+.header {
+    background: red;
+    &__col {
+        color: red;
+    }
+}

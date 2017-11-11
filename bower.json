@@ -1,0 +1,21 @@
+{
+  "name": "GulpTemplate",
+  "description": "my first gulp file",
+  "main": "index.js",
+  "authors": [
+    "Sergey Koval"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
